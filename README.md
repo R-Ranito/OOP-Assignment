@@ -25,6 +25,8 @@ D = the spaceship turns right
 Spacebar = the spaceship fire
 
 
+
+
 About the construction of the game
  
 The Package contains the main class it is the Class Window this class extends the class JFrame to allow to create the game window.
