@@ -16,10 +16,14 @@ Press Exit button to close the game
 
 Spaceship Control
 
-W = the spaceship moves forward 
+W = the spaceship moves forward
+
 A = the spaceship turns left
+
 D = the spaceship turns right
+
 Spacebar = the spaceship fire
+
 
 About the construction of the game
  
