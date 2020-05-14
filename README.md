@@ -4,7 +4,7 @@ Rui Ranito C18753061 - DT228/2 Assignment for Object Oriented Program
 YouTube link: https://www.youtube.com/watch?v=zIYeG6qaO3w
 
 The project is a game build entire in Java, for the project I used Eclipse IDE in the game you are a young Padawan that is the pilot of a X-Wings fight and your mission is try to survive the waves of enemies and the asteroid belt, the player is allowed to go through the border of the screen and he will appears on the other side, the same occurs with the meteors
-
+------------------------------------------------------------------------
 Instructions:
 
 Run the game press the SpaceWars jar file
@@ -25,7 +25,7 @@ D = the spaceship turns right
 Spacebar = the spaceship fire
 
 
-
+----------------------------------------------------------------------------
 
 About the construction of the game
  
@@ -41,6 +41,13 @@ once one is destroyed a small part of it will appear.
 For the enemy I decide to do the spaceship make a determined route and fire against the payer
 For the score I used the format Json to store the scores from each game and organize it in and descendent way.
 
+-------------------------------------------------------------------------
+Bugs: 
+
+A Bug detected in the SpaceWars.jar file the Background image does not upload.
+The same doesn’t occurs when open the file trough the Package main – class Window (the main class) 
+
+----------------------------------------------------
 Achievements 
 
 This game is an attempt to recreate the games that I used to play when I was young it is a game based on the olds
@@ -52,10 +59,6 @@ As previously said, the game was a small tribute to a saga that was very much ap
 the choice of the spaceship, the sound effects and the music of the game.
 
 
-Bugs: 
-
-A Bug detected in the SpaceWars.jar file the Background image does not upload.
-The same doesn’t occurs when open the file trough the Package main – class Window (the main class) 
 
 
 
