@@ -48,7 +48,7 @@ the choice of the spaceship, the sound effects and the music of the game.
 
 Bugs: 
 
-Bugs detect in the SpaceWars.jar file the Background image does not upload.
+A Bug detected in the SpaceWars.jar file the Background image does not upload.
 The same doesn’t occurs when open the file trough the Package main – class Window (the main class) 
 
 
