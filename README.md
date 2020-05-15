@@ -4,7 +4,7 @@ Rui Ranito C18753061 - DT228/2 Assignment for Object Oriented Program
 
 YouTube link: https://www.youtube.com/watch?v=zIYeG6qaO3w
 
-The project is a game build entire in Java, for the project I used Eclipse IDE in the game you are a young Padawan and the pilot of a X-Wings fighter and your mission is try to survive the waves of enemies and the asteroid belt, the player is allowed to go through the border of the screen and he will appears on the other side, the same occurs with the meteors.
+The project is a game build entire in Java, for the project I used Eclipse IDE in the game you are an young Padawan and the pilot of a X-Wings fighter and your mission is try to survive the waves of enemies and the asteroid belt, the player is allowed to go through the border of the screen and he will appears on the other side, the same occurs with the meteors.
 
 May the Force be With You
 ------------------------------------------------------------------------
@@ -40,8 +40,8 @@ Package GameObject is where the objects of the game are created the player, the 
 to the player move through the border the if statement position.getx() < 0 the width of the window and the get from the window.
 The laser of the spaceship was created getting the position of the spaceship and add the heading *width/2    
 For the meteors use the BufferedImage to load the images of the meteor. I decided to create 4 types of meteors with 
-once one is destroyed a small part of it will appear.
-For the enemy I decide to do the spaceship make a determined route and fire against the payer
+once one is destroyed a small part of it will appear it works with assets.
+For the enemy I decide to do the spaceship make a determined route and fire against the player
 For the score I used the format Json to store the scores from each game and organize it in and descendent way.
 
 -------------------------------------------------------------------------
