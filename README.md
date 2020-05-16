@@ -47,8 +47,9 @@ For the score I used the format Json to store the scores from each game and orga
 -------------------------------------------------------------------------
 Bugs: 
 
-A Bug detected in the SpaceWars.jar file the Background image does not upload.
-The same doesn’t occurs when open the file trough the Package main – class Window (the main class) 
+A Bug detected in the SpaceWars.jar file if you run this file outside the Game folder the Background image does not upload,
+the Death Star will not appear.
+
 
 ----------------------------------------------------
 Achievements 
